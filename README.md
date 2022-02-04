@@ -23,7 +23,7 @@ Repo for [FreeCodeCamp](https://www.freecodecamp.org/) challenges
    - Learn CSS Grid by Building a Magazine
    - Learn CSS Transform by Building a Penguin
    - Learn CSS Animation by Building a Ferris Wheel
-   - ** Projects **
+   - **Projects**
      - [Build a Survey Form Project](ResponsiveWebDesign/Projects/SurveyForm/)
      - [Build a Tribute Page Project](ResponsiveWebDesign/Projects/TributePage/)
      - Build a Technical Documentation Page Project
