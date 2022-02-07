@@ -16,7 +16,7 @@ Repo for [FreeCodeCamp](https://www.freecodecamp.org/) challenges
    - [Learn CSS Flexbox by Building a Photo Gallery](ResponsiveWebDesign/CSSFlexBoxPhotoGallery/)
    - [Learn Typography by Building a Nutrition Label](ResponsiveWebDesign/LearnTypographyNutritionLabel/)
    - [Learn Accessibility by Building a Quiz](ResponsiveWebDesign/LearnAccessibilityQuiz/)
-   - Learn More About CSS Psuedo Selectors by Building a Balance Sheet
+   - [Learn More About CSS Psuedo Selectors by Building a Balance Sheet](ResponsiveWebDesign/CSSPseudoSelectorsBalanceSheet/)
    - Learn Intermediate CSS by Building a Picasso Painting
    - Learn Responsive Web Design by Building a Piano
    - Learn CSS Variables by Building a City Skyline
