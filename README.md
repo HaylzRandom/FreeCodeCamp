@@ -1,6 +1,5 @@
 # FreeCodeCamp
 
-
 ## About
 
 Repo for [FreeCodeCamp](https://www.freecodecamp.org/) challenges
@@ -17,8 +16,8 @@ Repo for [FreeCodeCamp](https://www.freecodecamp.org/) challenges
    - [Learn Typography by Building a Nutrition Label](ResponsiveWebDesign/LearnTypographyNutritionLabel/)
    - [Learn Accessibility by Building a Quiz](ResponsiveWebDesign/LearnAccessibilityQuiz/)
    - [Learn More About CSS Psuedo Selectors by Building a Balance Sheet](ResponsiveWebDesign/CSSPseudoSelectorsBalanceSheet/)
-   - Learn Intermediate CSS by Building a Picasso Painting
-   - Learn Responsive Web Design by Building a Piano
+   - [Learn Intermediate CSS by Building a Picasso Painting](ResponsiveWebDesign/IntermediateCSSPicassoPainting/)
+   - [Learn Responsive Web Design by Building a Piano](ResponsiveWebDesign/ResponsiveWebDesignPiano/)
    - Learn CSS Variables by Building a City Skyline
    - Learn CSS Grid by Building a Magazine
    - Learn CSS Transform by Building a Penguin
@@ -38,4 +37,3 @@ Repo for [FreeCodeCamp](https://www.freecodecamp.org/) challenges
 8. Data Analysis with Python Certification
 9. Information Security Certification
 10. Machine Learning with Python Certification
-
