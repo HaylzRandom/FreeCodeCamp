@@ -25,7 +25,7 @@ Repo for [FreeCodeCamp](https://www.freecodecamp.org/) challenges
    - **Projects**
      - [Build a Survey Form Project](ResponsiveWebDesign/Projects/SurveyForm/)
      - [Build a Tribute Page Project](ResponsiveWebDesign/Projects/TributePage/)
-     - Build a Technical Documentation Page Project
+     - [Build a Technical Documentation Page Project](ResponsiveWebDesign/Projects/TechnicalDocumentation/)
      - Build a Product Landing Page Project
      - Build a Personal Portfolio Webpage Project
 2. JavaScript Algorithms and Data Structures Certification
